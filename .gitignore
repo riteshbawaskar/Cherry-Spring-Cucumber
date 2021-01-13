@@ -1,0 +1,5 @@
+# Default ignored files
+.idea
+cherry-core/target
+cherry-spring-cucumber/target
+QFC_Automation/target
